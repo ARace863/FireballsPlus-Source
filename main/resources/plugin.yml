@@ -1,0 +1,6 @@
+name: FireballPlus
+version: '${project.version}'
+main: me.arace863.fireball.FireballPlus
+authors: [ ARace863 ]
+description: Makes fireballs throwable
+website: https://arace863.github.io/Website/

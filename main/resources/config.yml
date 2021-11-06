@@ -1,0 +1,11 @@
+#Should FireballPlus enable custom fireballs?
+CustomFireball: true
+
+#How big of an explosion should it cause?
+fireballRodExplosionPower: 1
+
+#How long till players can use fireballs after last use, set it to 0 to disable
+fireballCooldown: 1
+
+#Should the impact set fire to anything?
+SetFire: false
